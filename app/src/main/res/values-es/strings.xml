@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyLocalization</string>
+    <string name="app_title">Bienvenido a mis aplicaciones!</string>
+
+    <string name="form_nama">Nombre completo</string>
+    <string name="form_email">Email</string>
+    <string name="form_handphone">Numero de telefono</string>
+    <string name="form_password">Contraseña</string>
+
+    <string name="btn_simpan">Guardar</string>
+    <string name="btn_lang">Cambiar idioma</string>
+</resources>
